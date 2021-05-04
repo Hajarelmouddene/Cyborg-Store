@@ -1,5 +1,9 @@
 <h1>🤖 Cyborg Social Club - Wearables E-Commerce Project </h1>
 
+#Demo 
+https://res.cloudinary.com/sourcedev-hajar/video/upload/v1620164573/Cyborg%20Store.mp4
+
+
 <img src="https://res.cloudinary.com/ddd1g1rw8/image/upload/v1619802415/homepage_ycb1bk.png" width="800px">
 <img src="https://res.cloudinary.com/ddd1g1rw8/image/upload/v1619802401/ecommerce_homepage_gif_wqvu8y.gif" width="800px">
 
